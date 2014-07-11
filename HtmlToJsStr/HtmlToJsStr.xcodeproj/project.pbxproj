@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0C0F13D3192D2B1800BA17B3 /* HtmlToJsStr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HtmlToJsStr.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C0F13D3192D2B1800BA17B3 /* 前端工具.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "前端工具.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C0F13D6192D2B1800BA17B3 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		0C0F13D9192D2B1800BA17B3 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		0C0F13DA192D2B1800BA17B3 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
@@ -94,7 +94,7 @@
 		0C0F13D4192D2B1800BA17B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0C0F13D3192D2B1800BA17B3 /* HtmlToJsStr.app */,
+				0C0F13D3192D2B1800BA17B3 /* 前端工具.app */,
 				0C0F13F4192D2B1800BA17B3 /* HtmlToJsStrTests.xctest */,
 			);
 			name = Products;
@@ -184,7 +184,7 @@
 			);
 			name = HtmlToJsStr;
 			productName = HtmlToJsStr;
-			productReference = 0C0F13D3192D2B1800BA17B3 /* HtmlToJsStr.app */;
+			productReference = 0C0F13D3192D2B1800BA17B3 /* 前端工具.app */;
 			productType = "com.apple.product-type.application";
 		};
 		0C0F13F3192D2B1800BA17B3 /* HtmlToJsStrTests */ = {
@@ -406,7 +406,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HtmlToJsStr/HtmlToJsStr-Prefix.pch";
 				INFOPLIST_FILE = "HtmlToJsStr/HtmlToJsStr-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "前端工具";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -419,7 +419,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HtmlToJsStr/HtmlToJsStr-Prefix.pch";
 				INFOPLIST_FILE = "HtmlToJsStr/HtmlToJsStr-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "前端工具";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -483,6 +483,7 @@
 				0C0F1406192D2B1800BA17B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C0F1407192D2B1800BA17B3 /* Build configuration list for PBXNativeTarget "HtmlToJsStrTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +492,7 @@
 				0C0F1409192D2B1800BA17B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

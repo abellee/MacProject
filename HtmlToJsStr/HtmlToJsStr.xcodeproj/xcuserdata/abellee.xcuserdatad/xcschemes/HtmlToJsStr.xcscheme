@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0C0F13D2192D2B1800BA17B3"
-               BuildableName = "HtmlToJsStr.app"
+               BuildableName = "&#x524d;&#x7aef;&#x5de5;&#x5177;.app"
                BlueprintName = "HtmlToJsStr"
                ReferencedContainer = "container:HtmlToJsStr.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0C0F13D2192D2B1800BA17B3"
-            BuildableName = "HtmlToJsStr.app"
+            BuildableName = "&#x524d;&#x7aef;&#x5de5;&#x5177;.app"
             BlueprintName = "HtmlToJsStr"
             ReferencedContainer = "container:HtmlToJsStr.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0C0F13D2192D2B1800BA17B3"
-            BuildableName = "HtmlToJsStr.app"
+            BuildableName = "&#x524d;&#x7aef;&#x5de5;&#x5177;.app"
             BlueprintName = "HtmlToJsStr"
             ReferencedContainer = "container:HtmlToJsStr.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0C0F13D2192D2B1800BA17B3"
-            BuildableName = "HtmlToJsStr.app"
+            BuildableName = "&#x524d;&#x7aef;&#x5de5;&#x5177;.app"
             BlueprintName = "HtmlToJsStr"
             ReferencedContainer = "container:HtmlToJsStr.xcodeproj">
          </BuildableReference>
